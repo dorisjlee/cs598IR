@@ -1,0 +1,18 @@
+HW2
+============
+Jung Lin Lee
+
+Installation Requirement
+- Python 2.7
+	Package requirement:
+		- Scipy
+		- Numpy
+- IPython Notebook/Jupyter notebook
+
+To start the notebook type in "ipython notebook" in terminal.
+The extra packages can be installed by using "pip install <package name>"
+These packages are also contained in Anaconda distribution of python 
+Anaconda installation instructions are described in detail here:
+http://dorisjunglinlee.com/comp_notes/anaconda.html
+
+
